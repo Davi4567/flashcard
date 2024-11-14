@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Jogo ou Expressão',
+    'O que é LOL?',
+    'O LOL é um jogo chamado League Of Legends ou uma expressão utilizada no ingles para rir'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Skate',
+    'Quando o Skate foi "Criado"?',
+    'Foi Criado em 1950, Na California'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'O que foi o apartheid?',
+    'O Apartheid foi um regime estabelecido na África do Sul entre os anos de 1948 e 1994 e se baseava na segregação racial dos negros desse país e na manutenção de uma série de leis que colocavam a população branca em uma situação privilegiada'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Curiosidade',
+    'Qual a Lingua mais falada no mundo depois do ingles?',
+    'Chines Mandarim'
 )
